@@ -28,7 +28,8 @@
     "paths": {
       "@/*": [
         "./src/*"
-      ]
+      ],
+      "@/styles/*": ["./src/styles/*"]  // Ajout de l'alias pour src/styles
     }
   },
   "include": [
