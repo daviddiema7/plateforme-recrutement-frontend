@@ -1,0 +1,9 @@
+{
+    "nom": "Name",
+     "prenom": "First Name",
+     "email": "Email",
+      "telephone": "Phone",
+      "cv": "CV",
+    "ajouter": "Add",
+     "details": "Details"
+ }
